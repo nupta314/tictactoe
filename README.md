@@ -4,4 +4,5 @@
 Dependancies
  Gtkmm-3.0 
  
-Note: Maybe will upgrade to Gtkmm-4.0 in future
+Note: Didn't use Gtkmm-4.0 coz it has some bugs and is not mature enough.
+ Maybe in future when the bugs are removed, I will upgrade it to Gtkmm-4.0.
